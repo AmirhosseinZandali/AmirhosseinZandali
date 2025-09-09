@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**AmirhosseinZandali/AmirhosseinZandali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Amir**, a passionate **Backend Developer** specialized in building scalable web applications with **Django** and **Django REST Framework (DRF)**.  
 
-Here are some ideas to get you started:
+- 🚀 Experienced in designing and developing RESTful APIs  
+- 🌱 Currently exploring **Docker**, **Cloud technologies**, and modern DevOps practices  
+- 💡 Interested in clean architecture, software scalability, and best coding practices  
+- 📫 Reach me at: [Email](zandaliamirhosein@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Tech Stack
+- **Languages:** Python, JavaScript  
+- **Frameworks:** Django, DRF, FastAPI  
+- **Databases:** PostgreSQL, MySQL, SQLite  
+- **Tools & Platforms:** Git, Docker, Linux, GitHub Actions  
+
+---
+
+⭐️ Feel free to check out my repositories and projects!
