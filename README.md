@@ -5,7 +5,7 @@ I'm **Amir**, a passionate **Backend Developer** specialized in building scalabl
 - 🚀 Experienced in designing and developing RESTful APIs  
 - 🌱 Currently exploring **Docker**, **Cloud technologies**, and modern DevOps practices  
 - 💡 Interested in clean architecture, software scalability, and best coding practices  
-- 📫 Reach me at: (zandaliamirhosein@gmail.com)
+- 📫 Reach me at: zandaliamirhosein@gmail.com
 
 ---
 
